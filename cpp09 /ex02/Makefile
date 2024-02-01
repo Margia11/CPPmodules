@@ -6,17 +6,17 @@
 #    By: andreamargiacchi <andreamargiacchi@stud    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/09/18 11:54:43 by andreamargi       #+#    #+#              #
-#    Updated: 2023/11/07 12:42:31 by andreamargi      ###   ########.fr        #
+#    Updated: 2023/11/02 16:43:39 by andreamargi      ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-NAME = PmergeMe
+NAME =
 
 CC = c++
 
 FLAGS = -std=c++98 -Wall -Wextra -Werror
 
-FILES = PmergeMe.cpp main.cpp \
+FILES = .cpp main.cpp \
 
 OBJ=$(FILES:.cpp=.o)
 
